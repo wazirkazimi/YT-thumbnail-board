@@ -52,15 +52,15 @@ Once the video ID is extracted, it is inserted into the YouTube thumbnail URL pa
 ### **YouTube Thumbnail Retrieval Pattern**  
 
 YouTube video thumbnails can be retrieved using a specific URL pattern:  
-```https://img.youtube.com/vi/[video-id]/0.jpg
+``https://img.youtube.com/vi/[video-id]/0.jpg
 
 **How to Use
 Clone the repository:
 
-```bash
-  git clone https://github.com/your-username/yt-thumbnail-board.git
+    ```bash
+    git clone https://github.com/wazirkazimi/YT-thumbnail-board.git
 
- 1.Open the index.html file in your browser.
+ *1.Open the index.html file in your browser.
 
  2.Paste a YouTube video link in the input bar.
 
