@@ -60,15 +60,16 @@ Clone the repository:
     ```bash
     git clone https://github.com/wazirkazimi/YT-thumbnail-board.git
 
- *1.Open the index.html file in your browser.
+  
+  1. **Open the index.html file in your browser.**
 
- 2.Paste a YouTube video link in the input bar.
+  2. **Paste a YouTube video link in the input bar.**
 
- 3.Click the "Retrieve Thumbnail" button to fetch the thumbnail.
+  3. **Click the "Retrieve Thumbnail" button to fetch the thumbnail.**
 
- 4.Use the "Download Thumbnail" button to save the image.(This function does not work for now, but will be available soon)
+  4. **Use the "Download Thumbnail" button to save the image.**(This function does not work for now, but will be available soon)
 
-### **Conclusion
+### **Conclusion**
 The YouTube Thumbnail Board Web App is a simple and efficient tool to extract and download YouTube thumbnails. It showcases how JavaScript can be used to manipulate strings and URLs dynamically, providing a practical solution for users.
 
 Feel free to fork the repository, contribute, or provide feedback!
