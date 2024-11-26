@@ -35,7 +35,7 @@ The UI for this web app is designed on Figma, and you can view it here:
 ### **Understanding Video IDs**  
 
 Each YouTube video has a unique 11-character video ID. For example:  
-![YouTube Video ID Example](https://prod-files-secure.s3.us-west-2.amazonaws.com/8949c4bb-a1db-41e9-8dd3-0959add727c6/d45837e3-72e7-48e5-b120-552e0745016b/68259b53-fb4b-40f7-9573-68f024e2b306.png)
+![Read the notion file for better understanding.](https://www.notion.so/Thumbnail-Board-1491458b5ef48081b027d372219e30a0?pvs=4)
 
 ### **Implementation Steps**  
 
